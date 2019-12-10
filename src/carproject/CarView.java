@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Question for Final Exam Part D.
  * Manufactures a Car of a given type based on the purchase orders.
  * @author Sivagama Srinivasan
- */
+  December 10th,2019 */
 public class CarView 
 {
 public static CarManufactureLocation Brampton = new CarManufactureLocation();//we only ever want one 
