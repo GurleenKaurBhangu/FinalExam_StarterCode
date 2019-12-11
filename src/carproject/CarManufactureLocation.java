@@ -6,7 +6,7 @@
 package carproject;
 
 /** A class that manufactures car.
- * We only ever want one manufacture location to make 
+ * We only ever want one manufacturing location to make 
  * cars to ensure consistency.
  * Users can order the number of car they want to buy
  * @author Sivagama Srinivasan
