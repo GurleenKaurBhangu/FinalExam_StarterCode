@@ -16,7 +16,7 @@ public class CarManufactureLocation {
   public int numofcars = 0;// how many orders to manufacture car
     public CarManufactureLocation()
     {
-        //intentionally left blank
+        //complete the code
     }  
 
 }
