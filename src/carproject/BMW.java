@@ -8,7 +8,7 @@ package carproject;
 /**
  *  A class to model car BMW
  * @author Sivagama Srinivasan
-April,2020 */
+2020 */
 public class BMW extends CarProject
 {
   
