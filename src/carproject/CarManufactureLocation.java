@@ -10,7 +10,7 @@ package carproject;
  * cars to ensure consistency.
  * Users can order the number of car they want to buy
  * @author Sivagama Srinivasan
-  April ,2020 */
+  August,2020 */
 public class CarManufactureLocation {
    
   public int numofcars = 0;// how many orders to manufacture car
