@@ -9,7 +9,7 @@ package carproject;
  *  A class to model car Volvo
  * 
  * @author Sivagama Srinivasan
- *2020 */
+ * */
 public class Volvo extends CarProject
 {
     
