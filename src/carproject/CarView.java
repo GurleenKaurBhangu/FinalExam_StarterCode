@@ -8,9 +8,8 @@ package carproject;
 import java.util.Scanner;
 
 /**
- * Question for Final Exam Part D.
- * Manufactures a Car of a given type based on the purchase orders.
- * @author Sivagama Srinivasan
+ * Question for Final Exam Part D
+ * @author Sivagama Srinivasan 
  */
 public class CarView 
 {
