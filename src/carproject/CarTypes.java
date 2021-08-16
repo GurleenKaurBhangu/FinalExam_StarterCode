@@ -8,7 +8,7 @@ package carproject;
 /**
  *
  * @author srinivsi
- August 12th 2020 */
+  */
 public class CarTypes 
 {
    public CarProject createCar(String type)
