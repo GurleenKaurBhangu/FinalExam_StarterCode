@@ -8,7 +8,7 @@ package carproject;
 import java.util.ArrayList;
 
 /**
- * August 12th
+ * 
  * @author srinivsi
  */
 public class CarProject
