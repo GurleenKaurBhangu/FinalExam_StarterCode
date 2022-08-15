@@ -12,7 +12,18 @@ package carproject;
  * @author Sivagama Srinivasan
   August,2022 */
 public class CarManufactureLocation {
-   
+   private CarManufactureLocation ()
+   {
+   }
+  private CarManufactureLocation object;
+  public static CarManufactureLocation getInstance()
+  {
+    if(object==null)
+    {
+      object = new CarManufactureLocation();
+    }
+    return object
+    }
   public int numofcars = 0;// how many orders to manufacture car
     public CarManufactureLocation()
     {
