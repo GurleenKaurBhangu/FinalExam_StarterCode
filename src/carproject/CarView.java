@@ -13,7 +13,8 @@ import java.util.Scanner;
  */
 public class CarView 
 {
-public static CarManufactureLocation Brampton = new CarManufactureLocation();//we only ever want one 
+public static CarManufactureLocation Brampton =CarManufactureLocation;
+   getInstance();//we only ever want one 
    // of these. The Car manufacture unit is located only in one location Brampton 
    //and all cars are manufactured in the same location.
     public static void main(String[] args) 
